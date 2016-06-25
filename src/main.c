@@ -121,7 +121,8 @@ print_title (void)
     if (flag) {
 	flag = 0;
 
-	eprintf ("ソースコードジェネレータ for X680x0"
+//	eprintf ("ソースコードジェネレータ for X680x0"
+	eprintf ("ソ\ースコードジェネレータ for X680x0"
 #ifdef __linux__
 						" (Linux cross)"
 #endif
